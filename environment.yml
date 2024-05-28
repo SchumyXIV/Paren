@@ -1,0 +1,7 @@
+name: Paren
+channels:
+  - defaults
+dependencies:
+  - ipykernel
+  - pandas
+  - matplotlib
